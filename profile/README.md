@@ -1,5 +1,3 @@
-# MyCitadel
-
 MyCitadel is a suite of software, hardware and Internet services focused on digital individual sovereignty and privacy[^ack].
 
 ## MyCitadel Wallet
