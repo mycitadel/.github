@@ -2,7 +2,7 @@
 
 ### MyCitadel Wallet
 
-The main component of the suite is Bitcoin, Lightning and RGB wallet. It enables real-world usage of **bitcoin, digital assets and bitcoin finance (#BiFi)**, including reliable hodling (with inheritance options), corporate & organization use, current accounts with instant Lightning payments, bitcoin staking (through routing, storage, computing, DEX, liquidity pool services provided by Lightning node). Technically it can work with *single- and multisig setups*, based on *hardware, air-gaped, cold and server-side hot key storage*, involving arbitrary complex time-lock scripts (with *miniscript*) and wide interoperability (because of use of *wallet descriptors*). MyCitadel is a taproot-enabled wallet from day one, including multisig- and script-based taproot.
+The main component of the suite is Bitcoin, Lightning and RGB wallet. It enables real-world usage of **bitcoin, digital assets and bitcoin finance (#BiFi)**, including reliable hodling (with inheritance options), corporate & organization use, current accounts with instant Lightning payments, bitcoin staking (through routing, storage, computing, DEX, liquidity pool services provided by Lightning node). Technically it can work with *single- and multisig setups*, based on *hardware, air gapped, cold and server-side hot key storage*, involving arbitrary complex time-lock scripts (with *miniscript*) and wide interoperability (because of use of *wallet descriptors*). MyCitadel is a taproot-enabled wallet from day one, including multisig- and script-based taproot.
 
 MyCitadel Wallet was the first consumer-facing wallet supporting taproot scripts with timelocks & miniscript, and the first wallet working with [RGB smart contracts](https://github.com/RGB-WG).
 
