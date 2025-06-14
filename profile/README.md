@@ -1,5 +1,7 @@
 <big>**MyCitadel is a suite of software, hardware and Internet services focused on digital individual sovereignty and privacy[^ack].**</big>
 
+![Banner](https://github.com/mycitadel/mycitadel-desktop/raw/master/data/banner.jpg)
+
 ### MyCitadel Wallet
 
 The main application of the suite is Bitcoin and RGB multisig wallet. It enables real-world usage of **bitcoin, digital assets and bitcoin finance (#BiFi)**, including reliable hodling (with inheritance options), corporate & organization use. Technically it can work with *hardware, air gapped, cold and server-side hot key storage*, involving arbitrary complex time-lock scripts and wide interoperability (because of use of *wallet descriptors*). MyCitadel is a taproot-enabled wallet from day one, including multisig- and script-based taproot.
